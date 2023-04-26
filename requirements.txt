@@ -1,0 +1,8 @@
+numpy
+matplotlib
+tensorflow
+tensorboard
+terminaltables
+pillow
+tqdm
+opencv-python
